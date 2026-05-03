@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **React, TypeScript, Node.js, Express, PostgreSQL**
 
-- 📫 Reach me: **TU_EMAIL_AQUI**
+- 📫 Reach me: **crschinocca@gmail.com**
 <!--Intro end-->
 
 <br>
